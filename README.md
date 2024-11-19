@@ -1,1 +1,1 @@
-# brett-dry-run
+# Ruleset: Code Scanning Required DEMO
